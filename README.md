@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitishkumar525" alt="nitishkumar525" /></a> </p>
 
+<hr>
+
 - 🌱 I’m currently learning **ReactJs & Tailwind CSS**
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
@@ -14,6 +16,8 @@
 - 📫 How to reach me **nitishjha525@gmail.com**
 
 - ⚡ Fun fact **I love to connect with new friends.**
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
