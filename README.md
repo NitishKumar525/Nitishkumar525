@@ -23,18 +23,111 @@
 🥅 2024 Goals: Learn **React**, **Nextjs** And strengthen **DSA**. <br>
 ⚡ Fun fact **I love to connect with new friends**.
 
+<!------------------------------------------------------------------------------- Tools Section ------------------------------------------------------------------------------------------------ -->
 
-## 💻 Tech Stack:
+</tr>
+</table>
+ 
+<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/>Tools & Technology </h1>
 
-<div align="center">
-
-<a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,angular,jquery,materialui,tailwind,redux,ts,vite,php,mongodb,mysql,threejs,django,next,postman,cpp,java,aws,ruby,heroku,vercel,netlify,firebase,git,bash,linux&perline=11" />
-</a>
-
-</div>
-
-<br>
+<table align="center" class="table table-dark">
+  <tr bg-dark>
+    <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
+      <br>HTML5
+    </td>
+    <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
+      <br>CSS3
+    </td>
+    <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="55" height="55" />
+      <br>Next Js
+    </td>
+    <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
+      <br>React Js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="55" height="55" />
+      <br>Flask
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=threejs" width="55" height="55" alt="icon" />
+      <br>Three Js
+    </td>
+  </tr>
+  <tr>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="55" height="55" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
+      <br>ExpressJS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="MongoDB" />
+      <br>C++
+    </td>
+    <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
+      <br>NodeJS
+    </td>
+    <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
+      <br>Vite
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="55" height="55" />
+      <br>aws
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="md" />
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="md" />
+      <br>Mysql
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" alt="md" />
+      <br>Flutter
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=dart" width="55" height="55" alt="md" />
+      <br>Dart
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redux" width="55" height="55" alt="md" />
+      <br>Redux
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" alt="md" />
+      <br>PoostgreSql
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" width="55" height="55" alt="md" />
+      <br>Vue
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="55" height="55" alt="md" />
+      <br>Angular
+  
+</table>
 
 <!------------------------------------------------------------------------------- Projects Section ------------------------------------------------------------------------------------------------ -->
 
