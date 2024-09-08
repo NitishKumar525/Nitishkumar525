@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/nitish-kumar-jha/">Nitish</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/nitish-kumar-jha/">Nitish</a><img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> </h1>
 
 
 <!--- Adding Header Elements -->
