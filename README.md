@@ -1,43 +1,102 @@
-![github banner](https://github.com/NitishKumar525/Nitishkumar525/assets/100376290/4740beba-baa9-4dad-819b-a1809b5f1979)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/nitish-kumar-jha/">Nitish</a> </h1>
 
 
+<!--- Adding Header Elements -->
+<p align="center">
+  <a href="https://nitish-dev.vercel.app/">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/nitish-kumar-jha/">LinkedIn</a> - 
+  <a href="https://x.com/sachin">Twitter</a> -
+  <a href="https://nowebsite/">Website</a> -
+  <a href="https://www.instagram.com/crucialxnitish_/">Instagram</a> -
+  <a href="mailto:nitishjha525@gmail.com">Contact me</a> 
+</p> 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F536&width=435&lines=Hey!++%F0%9F%91%8B%2C+I+am+Nitish+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+to+my+Profile!%F0%9F%9A%80" alt="Typing SVG" /></a></h1>
+-----------------------------------------------------------
+👨🏻‍💻 **About Me**<img src="https://github.com/user-attachments/assets/91a76797-cd2a-4581-b90b-a0d60915e1f7" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ Full-Stack Developer | Intern [@Learn & Build](https://learnandbuild.in/) <br>
+⚡ Check my ✨ [Website](https://nitish-dev.vercel.app) <br>
+📫 How to reach me: [Mail me](mailto:nitishjha525@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/nitish-kumar-jha)<br>
+💬 Ask me about Web Development.<br>
+👯 I’m looking to collaborate with **open source enthusiasts**. <br>
+🥅 2024 Goals: Learn **React**, **Nextjs** And strengthen **DSA**. <br>
+⚡ Fun fact **I love to connect with new friends**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishkumar525&label=Profile%20views&color=0e75b6&style=flat" alt="nitishkumar525" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitishkumar525" alt="nitishkumar525" /></a> </p>
+## 💻 Tech Stack:
+
+<div align="center">
+
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,angular,jquery,materialui,tailwind,redux,ts,vite,php,mongodb,mysql,threejs,django,next,postman,cpp,java,aws,ruby,heroku,vercel,netlify,firebase,git,bash,linux&perline=11" />
+</a>
+
+</div>
+
+<br>
+
+<!------------------------------------------------------------------------------- Projects Section ------------------------------------------------------------------------------------------------ -->
+
+
+# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+
+| Projects | Deployed Link | Repository | Tech Stack & Tools |
+|:---------|:-------------:|:----------:|:-------------------|
+| My portfolio | [view](https://nitish-dev.vercel.app) | [view](https://github.com/NitishKumar525/My-Portfolio) | `HTML` `CSS` `JavaScript` | 
+| Video player App | - | [view](https://github.com/NitishKumar525/Video-Player-App) | `JavaScript` `HTML` `CSS3` |
+| Myntra App | - | [view](https://github.com/NitishKumar525/Myntra-App) | `JavaScript` `CSS` `HTML` |
+| Tic Tac Toe | - | [view](https://github.com/NitishKumar525/Tic-Tac-Toe) | `JavaScript` `CSS3` |
+| Blogging Website | - | [view](https://github.com/NitishKumar525/Blogging-Website) | `EJS` `JavaScript` `CSS3` |
+| Calculator | - | [view](https://github.com/NitishKumar525/Calculator) | `HTML` `CSS3` |
+| ToDo-list | - | [view](https://github.com/NitishKumar525/ToDo-List) | `JavaScript` `CSS3` `HTML5` |
+| Amazon Clone | - | [view](https://github.com/NitishKumar525/amazon-clone) | `HTML` `CSS` |
+
+
+### Github Stats 🧊
+
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitishkumar525&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitishkumar525&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitishkumar525&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitishkumar525&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitishkumar525&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=nitishkumar525&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+
+<br/>
+<br/>
+<br/>
+
+
+<p align="center">
+   <a>
+     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NitishKumar525&theme=radical" alt="NitishKumar525" /></p>
+   </a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishkumar525&theme=synthwave-84&true&hide_border=true" />
+</div>
 
 <hr>
 
-- 🌱 I’m currently learning **ReactJs & Tailwind CSS**
+<p align="center">
+  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+</p>
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
-
-- 📫 How to reach me **nitishjha525@gmail.com**
-
-- ⚡ Fun fact **I love to connect with new friends.**
-
-<hr>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nitish kumar jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish kumar jha" height="30" width="40" /></a>
-<a href="https://fb.com/nitish kumar jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitish kumar jha" height="30" width="40" /></a>
-<a href="https://instagram.com/crucialxnitish_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crucialxnitish_" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://buymeacoffee.com/nitishkumar525" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
 </p>
 
 <hr>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=nitishkumar525&color=red" alt="Total Github views" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishkumar525&show_icons=true&locale=en&layout=compact" alt="nitishkumar525" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishkumar525&show_icons=true&locale=en" alt="nitishkumar525" /></p>
 
-<hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishkumar525&" alt="nitishkumar525" /></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
