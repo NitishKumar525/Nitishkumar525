@@ -14,7 +14,7 @@
 </p> 
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://github.com/user-attachments/assets/91a76797-cd2a-4581-b90b-a0d60915e1f7" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Full-Stack Developer | Intern [@Learn & Build](https://learnandbuild.in/) <br>
 ⚡ Check my ✨ [Website](https://nitish-dev.vercel.app) <br>
 📫 How to reach me: [Mail me](mailto:nitishjha525@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/nitish-kumar-jha)<br>
