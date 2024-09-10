@@ -138,13 +138,13 @@
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
 | My portfolio | [view](https://nitish-dev.vercel.app) | [view](https://github.com/NitishKumar525/My-Portfolio) | `HTML` `CSS` `JavaScript` | 
-| Video player App | - | [view](https://github.com/NitishKumar525/Video-Player-App) | `JavaScript` `HTML` `CSS3` |
-| Myntra App | - | [view](https://github.com/NitishKumar525/Myntra-App) | `JavaScript` `CSS` `HTML` |
-| Tic Tac Toe | - | [view](https://github.com/NitishKumar525/Tic-Tac-Toe) | `JavaScript` `CSS3` |
 | Blogging Website | - | [view](https://github.com/NitishKumar525/Blogging-Website) | `EJS` `JavaScript` `CSS3` |
-| Calculator | - | [view](https://github.com/NitishKumar525/Calculator) | `HTML` `CSS3` |
-| ToDo-list | - | [view](https://github.com/NitishKumar525/ToDo-List) | `JavaScript` `CSS3` `HTML5` |
-| Amazon Clone | - | [view](https://github.com/NitishKumar525/amazon-clone) | `HTML` `CSS` |
+| Video player App | [view](https://video-player-nit.vercel.app/) | [view](https://github.com/NitishKumar525/Video-Player-App) | `JavaScript` `HTML` `CSS3` |
+| Myntra App | [view](https://myntra-app-nit.vercel.app/) | [view](https://github.com/NitishKumar525/Myntra-App) | `JavaScript` `CSS` `HTML` |
+| Tic Tac Toe | [view](https://tic-tac-toe-nit.vercel.app/) | [view](https://github.com/NitishKumar525/Tic-Tac-Toe) | `JavaScript` `CSS3` |
+| Calculator | [view](https://calculator-nit.vercel.app/) | [view](https://github.com/NitishKumar525/Calculator) | `HTML` `CSS3` |
+| ToDo-list | [view](https://to-do-list-nit.vercel.app/) | [view](https://github.com/NitishKumar525/ToDo-List) | `JavaScript` `CSS3` `HTML5` |
+| Amazon Clone | [view](https://amazon-clone-nit.vercel.app/) | [view](https://github.com/NitishKumar525/amazon-clone) | `HTML` `CSS` |
 
 
 ### Github Stats 🧊
