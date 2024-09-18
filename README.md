@@ -139,6 +139,7 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
+| Jec Night Cafe | [view](https://restro-app-nit.vercel.app/) | [view](https://github.com/NitishKumar525/Jecnight-cafe) | `react` `node` `mongoDB` | 
 | My portfolio | [view](https://nitish-dev.vercel.app) | [view](https://github.com/NitishKumar525/My-Portfolio) | `HTML` `CSS` `JavaScript` | 
 | Blogging Website | - | [view](https://github.com/NitishKumar525/Blogging-Website) | `EJS` `JavaScript` `CSS3` |
 | Video player App | [view](https://video-player-nit.vercel.app/) | [view](https://github.com/NitishKumar525/Video-Player-App) | `JavaScript` `HTML` `CSS3` |
