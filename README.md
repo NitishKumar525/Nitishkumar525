@@ -149,8 +149,11 @@
 | ToDo-list | [view](https://to-do-list-nit.vercel.app/) | [view](https://github.com/NitishKumar525/ToDo-List) | `JavaScript` `CSS3` `HTML5` |
 | Amazon Clone | [view](https://amazon-clone-nit.vercel.app/) | [view](https://github.com/NitishKumar525/amazon-clone) | `HTML` `CSS` |
 
+# Holopin Badges💫
+[![An image of @nitishkumar525's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitishkumar525)](https://holopin.io/@nitishkumar525)
 
-### Github Stats 🧊
+
+# Github Stats 🧊
 
 <div align="center">
 
