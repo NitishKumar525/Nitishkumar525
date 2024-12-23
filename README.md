@@ -13,7 +13,8 @@
   <a href="mailto:nitishjha525@gmail.com">Contact me</a> 
 </p> 
 
------------------------------------------------------------
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Full-Stack Developer | Intern [@Learn & Build](https://learnandbuild.in/) <br>
 ⚡ Check my ✨ [Website](https://nitish-dev.vercel.app) <br>
@@ -179,7 +180,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishkumar525&theme=synthwave-84&true&hide_border=true" />
 </div>
 
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 <p align="center">
   <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
@@ -191,7 +193,8 @@
   </a>
 </p>
 
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nitishkumar525&color=red" alt="Total Github views" />
 
 
